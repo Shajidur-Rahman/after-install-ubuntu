@@ -1,0 +1,7 @@
+1. Enable Partner Repositories 
+2. update ==> sudo apt update; sudo apt upgrade
+3. Install Proprietary Drivers ==> nvidia
+4. install app ==> sudo apt install vlc gimp gparted git ubuntu-restricted-extras python3-pip tlp tlp-rdw gnome-tweak-tool
+5. boost speed ==> sudo apt install preload
+6. wifi ==> 8.8.8.8,8.8.4.4
+7. GNOME Extensions: ==> https://extensions.gnome.org/
